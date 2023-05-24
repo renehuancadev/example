@@ -1,4 +1,4 @@
-console.log("cambiios de la cabecera")
+console.log("de la cabecera")
 const a = 3
 const b = 3
 console.log(a+b)
